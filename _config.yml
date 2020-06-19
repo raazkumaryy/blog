@@ -1,16 +1,16 @@
 url:                   'https://dev-frog.github.io'
 baseurl:               '/blog'
 lang:                  en
-title:                 sapiens
+title:                 Rajkumary
 description:           >
-  "HACK THE PLANET".
+  "EAT,SLEEP,HACK,REPEAT".
 
 # A shorter description for the sidebar.
 tagline:  >
-  "HACK THE PLANET"
+  "EAT,SLEEP,HACK,REPEAT"
 
 
-keywords:      [ctf,hacking,progamming,malware]
+keywords:      [ctf,hacking,progamming,Web-development,Web-Desing]
 
 logo:          /assets/icons/icon_pic.jpg
 
@@ -22,12 +22,12 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Hackthebox
-    url:               /hackthebox/
+  - title:             tryhackme
+    url:               /tryhackme/
   - title:             CTF
     url:               /ctf/
-  - title:             Vlunhub
-    url:               /vulnhub/
+  - title:             Develpoment
+    url:               /development/
   - title:             Others
     url:               /others/
   - title:             About
