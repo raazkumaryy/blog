@@ -4,7 +4,7 @@ image: /assets/img/about/about_img.jpeg
 
 # About Me
 
-Hello, I'm a security professional known as ***froghunter*** who play CTF's and write about it. Like to play with hardware and also write *exploit* and do vulnerability research 
+Hello, I'm a security professional known as ***sapiens*** who play CTF's and write about it. Like to play with hardware and also write *exploit* and do vulnerability research 
 
 
 {:.lead}
@@ -12,7 +12,7 @@ Hello, I'm a security professional known as ***froghunter*** who play CTF's and 
 ![Screenshot](/assets/img/about/about_img.jpeg)
 
 
-  > ***Email*** : _froghunter.ctf@gmail.com_
+  > ***Email*** : _raazkumary.rk@gmail.com_
   
 
  > Here is my resume if you want to see..... [Resume pdf][download]
