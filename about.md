@@ -14,8 +14,7 @@ As an experienced software engineer and vulnerability researcher with a history 
 - Skilled in working with Database System Like **MySQL,MariaDB,SQLite** and **MongoDB**.
 
 ## Expericenc
-
-> ##### Ignite youth Foundation
+##### Ignite youth Foundation
 > Month 2016 - Present
   - Founding member and strategy development officer.
   - Developed their Official Website.
@@ -33,7 +32,7 @@ As an experienced software engineer and vulnerability researcher with a history 
  > Here is my resume if you want to see..... [Resume pdf][download]
  
  
-[download]: https://github.com/raazkumaryy/blog/blob/gh-pages/assets/Resume.pdf
+[download]: https://raazkumaryy.github.io/blog/assets/Resume.pdf
 
 {:.figure}
 
